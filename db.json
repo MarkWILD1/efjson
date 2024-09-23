@@ -2384,20 +2384,13 @@
                         "Resolución de problemas",
                         "Ciudadanía responsable"
                     ],
-                    "competencias_especificas": {
-                        "5to Grado": [
+                    "competencias_especificas": [
                             "CE1: Reconoce y explica las características de su propio cuerpo en relación con el entorno.",
                             "CE2: Realiza movimientos básicos de locomoción, manipulación y equilibrio en diferentes espacios.",
                             "CE3: Participa en juegos y actividades físicas que promuevan la cooperación y el trabajo en equipo.",
                             "CE4: Valora la importancia de la actividad física para la salud y el bienestar."
+
                         ],
-                        "6to Grado": [
-                            "CE1: Reconoce y explica las características de su propio cuerpo en relación con el entorno.",
-                            "CE2: Realiza movimientos básicos de locomoción, manipulación y equilibrio en diferentes espacios.",
-                            "CE3: Participa en juegos y actividades físicas que promuevan la cooperación y el trabajo en equipo.",
-                            "CE4: Valora la importancia de la actividad física para la salud y el bienestar."
-                        ]
-                    },
                     "criterios_de_logro": [
                         "5to Grado: Realiza e identifica, mediados por el docente, variados deportes en los diferentes medios (terrestre, acuáticos, aéreos) con reglas simples.",
                         "6to Grado: Identifica los sistemas tácticos de los diferentes deportes y vincula los diferentes gestos técnicos con sistemas tácticos en situación de juego."
@@ -2476,7 +2469,7 @@
                     "espacio": "Desarrollo Personal y Conciencia Corporal",
                     "unidad_curricular": "Educación Física",
                     "contenido_estructurante": "Deporte",
-                    "contenido_especifico": "Atletismo",
+                    "contenido_especifico": "Rugby",
                     "competencias_generales": [
                         "Comunicación",
                         "Pensamiento creativo",
