@@ -2570,7 +2570,7 @@
                     "espacio": "Desarrollo Personal y Conciencia Corporal",
                     "unidad_curricular": "Educación Física",
                     "contenido_estructurante": "Deporte",
-                    "contenido_especifico": "Atletismo",
+                    "contenido_especifico": "Fútbol",
                     "competencias_generales": [
                         "Comunicación",
                         "Pensamiento creativo",
@@ -2586,19 +2586,16 @@
                         }
                     },
                     "criterios_de_logro": "Incorpora las técnicas básicas del deporte para aprender individual o colectivo.",
-                    "metas_de_aprendizaje": "Los estudiantes desarrollarán habilidades técnicas fundamentales en atletismo para mejorar su desempeño motriz y fomentar la colaboración y el espíritu de equipo.",
+                    "metas_de_aprendizaje": "Los estudiantes desarrollarán habilidades técnicas fundamentales en fútbol para mejorar su desempeño motriz y fomentar la colaboración y el espíritu de equipo.",
                     "plan_de_aprendizaje_1": {
                         "inicio": [
-                            "Introducción al handball: reglas básicas y objetivos del juego (15 min).",
-                            "Mancha pelota",
-                            "Mancha pelota de equipos",
-                            "Mancha pelota de equipos."
+                            "Introducción al fútbol: reglas básicas y objetivos del juego (15 min).",
+                            "Juego de calentamiento: 'Mancha pelota'."
                         ],
                         "desarrollo": [
-                            "Mancha pelota (Se puede salvar si detiene la pelota con ambas manos, luego la suelta o si la defiende con la palma de las manos) Juego 'Balón Torre' para practicar pases y recepciones en movimiento (15 min). Se forman dos equipos. Cada capitán, metido en un aro en cada fondo del campo contrario. El equipo que comienza va progresando mediante pases, mientras que los adversarios intentan impedir la progresión del balón para apoderarse de él. El equipo que consigue llevar el balón a su capitán consigue un punto. Después de cada punto, se saca de centro. Gana el equipo que más puntos consiga. No está permitido tocar al equipo contrario ni arrebatar el balón de las manos.",
-                            "Juego 'Robar la pelota' En pareja deber realizar pases e intentar robar la pelota de otra pareja.",
-                            "Robar el balón, guardianes del tesoro.",
-                            "Balón torre, guardianes del tesoro."
+                            "Juego 'Pases en movimiento': Los estudiantes se dividen en parejas y practican pases mientras se mueven por el espacio (15 min).",
+                            "Juego 'Robar la pelota': En parejas, deben realizar pases e intentar robar la pelota de otra pareja.",
+                            "Ejercicio de dribbling: Practicar el control del balón mientras se desplazan por el campo."
                         ],
                         "cierre": [
                             "Vuelta a la calma y cierre de la unidad (10 min)."
@@ -2606,16 +2603,13 @@
                     },
                     "plan_de_aprendizaje_2": {
                         "inicio": [
-                            "Introducción al handball: reglas básicas y objetivos del juego (15 min).",
-                            "Mancha pelota",
-                            "Mancha pelota de equipos",
-                            "Mancha pelota de equipos."
+                            "Revisión de las reglas básicas del fútbol (10 min).",
+                            "Juego de calentamiento: 'Mancha pelota de equipos'."
                         ],
                         "desarrollo": [
-                            "Mancha pelota (Se puede salvar si detiene la pelota con ambas manos, luego la suelta o si la defiende con la palma de las manos) Juego 'Balón Torre' para practicar pases y recepciones en movimiento (15 min). Se forman dos equipos. Cada capitán, metido en un aro en cada fondo del campo contrario. El equipo que comienza va progresando mediante pases, mientras que los adversarios intentan impedir la progresión del balón para apoderarse de él. El equipo que consigue llevar el balón a su capitán consigue un punto. Después de cada punto, se saca de centro. Gana el equipo que más puntos consiga. No está permitido tocar al equipo contrario ni arrebatar el balón de las manos.",
-                            "Juego 'Robar la pelota' En pareja deber realizar pases e intentar robar la pelota de otra pareja.",
-                            "Robar el balón, guardianes del tesoro.",
-                            "Balón torre, guardianes del tesoro."
+                            "Juego 'Balón Torre': Se forman dos equipos. Cada capitán, metido en un aro en cada fondo del campo contrario. El equipo que comienza va progresando mediante pases, mientras que los adversarios intentan impedir la progresión del balón.",
+                            "Ejercicio de pases en movimiento: Practicar pases en diferentes direcciones.",
+                            "Juego 'Robar la pelota': En parejas, deben realizar pases e intentar robar la pelota de otra pareja."
                         ],
                         "cierre": [
                             "Vuelta a la calma y cierre de la unidad (10 min)."
@@ -2623,16 +2617,13 @@
                     },
                     "plan_de_aprendizaje_3": {
                         "inicio": [
-                            "Introducción al handball: reglas básicas y objetivos del juego (15 min).",
-                            "Mancha pelota",
-                            "Mancha pelota de equipos",
-                            "Mancha pelota de equipos."
+                            "Revisión de las técnicas de pase y recepción (10 min).",
+                            "Juego de calentamiento: 'Mancha pelota de equipos'."
                         ],
                         "desarrollo": [
-                            "Mancha pelota (Se puede salvar si detiene la pelota con ambas manos, luego la suelta o si la defiende con la palma de las manos) Juego 'Balón Torre' para practicar pases y recepciones en movimiento (15 min). Se forman dos equipos. Cada capitán, metido en un aro en cada fondo del campo contrario. El equipo que comienza va progresando mediante pases, mientras que los adversarios intentan impedir la progresión del balón para apoderarse de él. El equipo que consigue llevar el balón a su capitán consigue un punto. Después de cada punto, se saca de centro. Gana el equipo que más puntos consiga. No está permitido tocar al equipo contrario ni arrebatar el balón de las manos.",
-                            "Juego 'Robar la pelota' En pareja deber realizar pases e intentar robar la pelota de otra pareja.",
-                            "Robar el balón, guardianes del tesoro.",
-                            "Balón torre, guardianes del tesoro."
+                            "Juego 'Balón Torre': Se forman dos equipos. Cada capitán, metido en un aro en cada fondo del campo contrario. El equipo que comienza va progresando mediante pases.",
+                            "Ejercicio de dribbling: Practicar el control del balón mientras se desplazan por el campo.",
+                            "Juego 'Robar la pelota': En parejas, deben realizar pases e intentar robar la pelota de otra pareja."
                         ],
                         "cierre": [
                             "Vuelta a la calma y cierre de la unidad (10 min)."
@@ -2640,16 +2631,13 @@
                     },
                     "plan_de_aprendizaje_4": {
                         "inicio": [
-                            "Introducción al handball: reglas básicas y objetivos del juego (15 min).",
-                            "Mancha pelota",
-                            "Mancha pelota de equipos",
-                            "Mancha pelota de equipos."
+                            "Revisión de las reglas y técnicas aprendidas (10 min).",
+                            "Juego de calentamiento: 'Mancha pelota de equipos'."
                         ],
                         "desarrollo": [
-                            "Mancha pelota (Se puede salvar si detiene la pelota con ambas manos, luego la suelta o si la defiende con la palma de las manos) Juego 'Balón Torre' para practicar pases y recepciones en movimiento (15 min). Se forman dos equipos. Cada capitán, metido en un aro en cada fondo del campo contrario. El equipo que comienza va progresando mediante pases, mientras que los adversarios intentan impedir la progresión del balón para apoderarse de él. El equipo que consigue llevar el balón a su capitán consigue un punto. Después de cada punto, se saca de centro. Gana el equipo que más puntos consiga. No está permitido tocar al equipo contrario ni arrebatar el balón de las manos.",
-                            "Juego 'Robar la pelota' En pareja deber realizar pases e intentar robar la pelota de otra pareja.",
-                            "Robar el balón, guardianes del tesoro.",
-                            "Balón torre, guardianes del tesoro."
+                            "Juego 'Partido reducido': Se forman equipos y se juega un partido con reglas simplificadas para aplicar lo aprendido.",
+                            "Ejercicio de pases en movimiento: Practicar pases en diferentes direcciones.",
+                            "Juego 'Robar la pelota': En parejas, deben realizar pases e intentar robar la pelota de otra pareja."
                         ],
                         "cierre": [
                             "Vuelta a la calma y cierre de la unidad (10 min)."
